@@ -1,10 +1,3 @@
-"""
-CFUN
-
-Base Configurations class.
-
-"""
-
 import numpy as np
 
 
