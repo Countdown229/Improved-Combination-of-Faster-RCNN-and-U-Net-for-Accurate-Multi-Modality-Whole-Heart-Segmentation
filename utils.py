@@ -1,8 +1,3 @@
-"""
-CFUN
-
-Common utility functions and classes.
-"""
 
 import torch
 import numpy as np
