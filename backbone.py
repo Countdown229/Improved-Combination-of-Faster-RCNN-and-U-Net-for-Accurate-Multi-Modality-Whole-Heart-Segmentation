@@ -1,11 +1,3 @@
-"""
-CFUN
-
-Backbone nets architectures: Pseudo-3D Residual Networks (P3D Resnet, 2017)
-
-A shallower implementation which only contains two stages.
-
-"""
 
 import torch.nn as nn
 import math
