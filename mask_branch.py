@@ -1,8 +1,3 @@
-"""
-CFUN
-
-Implementation of a modified U-net as our mrcnn_mask for segmentation.
-"""
 
 import torch.nn as nn
 import torch
