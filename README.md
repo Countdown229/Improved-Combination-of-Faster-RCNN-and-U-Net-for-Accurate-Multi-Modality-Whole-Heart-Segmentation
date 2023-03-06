@@ -1,6 +1,6 @@
 # Improved-Combination-of-Faster-RCNN-and-U-Net-for-Accurate-Multi-Modality-Whole-Heart-Segmentation
 
-The code will be released after the paper is received.
+The sufficient code will be released after the paper is received.
 
 We adopt the MM-WHS 2017 Challenge's dataset.
 
