@@ -1,8 +1,3 @@
-"""
-CFUN
-
-The main CFUN model implementation.
-"""
 
 import time
 import math
